@@ -26,13 +26,14 @@ From the visualization results, it can be observed that MDGS provides more accur
 From the visualization results, it is evident that MDGS provides more accurate trajectory predictions for the Cubli robot. An interesting observation is that baseline methods, due to their inability to capture internal interactions within the mechanical body effectively, neglect the influence of reaction wheels, resulting in significant deviations in attitude predictions for the Cubli robot.
 
 # 7. The Experimental Results on The Vehicle Dataset
-![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/616e7831-f425-415f-b644-ce2f1cc7ae33)
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/538477c6-c1a2-4b9c-a910-3ec42c1fcb40)
 
 # 8. The Experimental Results on The Vehicle with Obstacles Dataset
-![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/283293e8-f430-4ac3-86dd-a67e54a41480)
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/fca17574-20dc-4257-a10c-1fa3b619d83b)
 
 # 9. The Experimental Results on The Damaged Vehicle Dataset
-![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/a1377ff4-5293-4309-a24d-5df411aae98a)
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/aa686312-5b34-4ba5-9de2-d96c6723ba34)
+
 
 
 
