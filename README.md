@@ -28,11 +28,19 @@ From the visualization results, it is evident that MDGS provides more accurate t
 # 7. The Experimental Results on The Vehicle Dataset
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/538477c6-c1a2-4b9c-a910-3ec42c1fcb40)
 
-# 8. The Experimental Results on The Vehicle with Obstacles Dataset
+# 8. The Experimental Results on The Vehicle with Fixed Obstacles Dataset
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/fca17574-20dc-4257-a10c-1fa3b619d83b)
 
 # 9. The Experimental Results on The Damaged Vehicle Dataset
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/aa686312-5b34-4ba5-9de2-d96c6723ba34)
+
+# 10. The Experimental Results on The Vehicle with Movable Obstacles Dataset
+![图片](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/7da2117c-fff1-4be4-bae9-45b04db997ea)
+
+# 11. The Experimental Visualization Results on The Vehicle with Movable Obstacles Dataset
+![图片](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/f6f030bd-7c15-4234-9b09-7eb34c405016)
+
+
 
 
 
