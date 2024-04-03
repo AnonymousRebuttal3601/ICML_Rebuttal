@@ -14,7 +14,8 @@ We have included new graphs regarding the experimental results of baselines with
 As demonstrated in the figure, we affix the hinge to a central object and apply a rotational torque to test its state of rotation, as well as to assess the state of rotation after the hinge has been actuated.
 
 # 4. Illustration of Different Forms of Vehicle Utilized in The Newly Conducted Experiments
-![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/91f06d4d-9fd9-4fab-a313-4cf824055549)
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/33b40079-d6df-484e-891c-cfb3907470c8)
+From the figure, it can be observed that we have constructed a mechanical structure vehicle, with the tires connected to the chassis using bearings. Subsequently, we conducted tests on it under various environmental conditions and configurations.
 
 # 5. The Experimental Visualization Results on The Vehicle Dataset
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/20370539-b354-4864-a5c9-7b1aae433a4d)
