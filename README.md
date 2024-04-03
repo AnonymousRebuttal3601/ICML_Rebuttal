@@ -10,7 +10,7 @@ We have included new graphs regarding the experimental results of baselines with
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/1cafc21c-01f8-4be2-abbc-6ce0e6c47801)
 
 # 3. Illustration of Different Forms of Complex Rotational Body Utilized in The Experiments
-![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/59f2a2ee-3456-4f81-b90c-07c565bbfc4d)
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/1e93ccf8-8bd9-4af5-98e9-7541ed52a54d)
 
 # 4. Illustration of Different Forms of Vehicle Utilized in The Newly Conducted Experiments
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/91f06d4d-9fd9-4fab-a313-4cf824055549)
