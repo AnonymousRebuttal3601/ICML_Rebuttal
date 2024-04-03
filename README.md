@@ -11,13 +11,13 @@ We have included new graphs regarding the experimental results of baselines with
 
 # 3. Illustration of Different Forms of Complex Rotational Body Utilized in The Experiments
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/1e93ccf8-8bd9-4af5-98e9-7541ed52a54d)
+As demonstrated in the figure, we affix the hinge to a central object and apply a rotational torque to test its state of rotation, as well as to assess the state of rotation after the hinge has been actuated.
 
 # 4. Illustration of Different Forms of Vehicle Utilized in The Newly Conducted Experiments
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/91f06d4d-9fd9-4fab-a313-4cf824055549)
 
 # 5. The Experimental Visualization Results on The Vehicle Dataset
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/20370539-b354-4864-a5c9-7b1aae433a4d)
-
 From the visualization results, it can be observed that MDGS provides more accurate predictions of vehicle trajectory, owing to its better understanding of the intricate mechanical interactions and interplay forces within the vehicle.
 
 # 6. The Experimental Visualization Results on The Cubli Robot (Three Flywheels) Dataset
