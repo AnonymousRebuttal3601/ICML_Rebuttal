@@ -51,6 +51,10 @@ We conducted experiments with a space robot under conditions of microgravity.
 # 14. The Experimental Visualization Results on The Space Robot with Double Arm Dataset
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/37c3c0b9-53e3-407b-8baa-14c184099211)
 
+# 15. The Experimental Visualization Results on The Space Robot Uder Strike Dataset
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/5c3cac25-602d-4f72-a5fc-f87471bf0653)
+
+
 
 
 
