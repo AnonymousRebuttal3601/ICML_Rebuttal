@@ -1,4 +1,4 @@
-![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/e0c01cc3-abf9-4fbb-9052-c069152ee834)# ICML_Rebuttal
+
 Here, we present new experimental results along with a more intuitive description of the datasets.
 
 # 1. Re-experimentation on Baselines With and Without Structural Constraint Module
