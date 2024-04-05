@@ -43,8 +43,13 @@ From the visualization results, it is evident that MDGS provides more accurate t
 
 # 12. Illustration of Different Forms of Space Robot in The Newly Conducted Experiments
 ![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/608d70d5-e00a-430c-9f22-7ca9dd43fa68)
+We conducted experiments with a space robot under conditions of microgravity.
 
+# 13. The Experimental Visualization Results on The Space Robot with Single Arm Dataset
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/644a7485-7626-46b5-8e73-d59d154dd5b9)
 
+# 14. The Experimental Visualization Results on The Space Robot with Double Arm Dataset
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/37c3c0b9-53e3-407b-8baa-14c184099211)
 
 
 
