@@ -1,4 +1,4 @@
-# ICML_Rebuttal
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/e0c01cc3-abf9-4fbb-9052-c069152ee834)# ICML_Rebuttal
 Here, we present new experimental results along with a more intuitive description of the datasets.
 
 # 1. Re-experimentation on Baselines With and Without Structural Constraint Module
@@ -41,7 +41,10 @@ From the visualization results, it is evident that MDGS provides more accurate t
 # 11. The Experimental Visualization Results on The Vehicle with Movable Obstacles Dataset
 ![图片](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/f6f030bd-7c15-4234-9b09-7eb34c405016)
 
-![图片](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/9b4c363e-6611-4ab4-8ca6-09c4dbd45a8d)
+# 12. Illustration of Different Forms of Space Robot in The Newly Conducted Experiments
+![image](https://github.com/AnonymousRebuttal3601/ICML_Rebuttal/assets/165354327/608d70d5-e00a-430c-9f22-7ca9dd43fa68)
+
+
 
 
 
